@@ -11,7 +11,7 @@ Decision forests (Random Forests / Gradient Boosted Trees) are strong baselines 
 
 This project demonstrates a full ML workflow: data preparation → cross-validation → model training → evaluation → visualization → submission. It’s practical and directly reusable for Kaggle-style problems.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # What the repository contains
 
