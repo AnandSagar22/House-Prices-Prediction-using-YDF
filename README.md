@@ -1,9 +1,10 @@
 # House-Prices-Prediction-using-YDF
 This project builds an end-to-end regression pipeline for the Kaggle competition "House Prices — Advanced Regression Techniques" using Yggdrasil Decision Forests (YDF).
 It trains a Random Forest on the Ames housing dataset and produces predictions for the test set. The pipeline includes basic feature engineering, 5‑fold cross validation, model inspection, visualizations of prediction quality, and a final submission CSV.
+
 -------------------------------------------------------------------------------------------------------------------
 
-#Why this project matters
+# Why this project matters
 
 The dataset is realistic and mixed-type (numerical + categorical), which makes it a great exercise in data cleaning, feature engineering, and model selection.
 
